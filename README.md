@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version uses a tightly cropped CommunityFirst logo and larger header logo sizing.
+This version connects the contact form to Formspree and uses the cropped CommunityFirst logo.
 
 Correct GitHub structure:
 
@@ -12,3 +12,6 @@ Correct GitHub structure:
   - communityfirst-logo.png
 - package.json
 - README.md
+
+Formspree endpoint:
+https://formspree.io/f/xykvqzyb
