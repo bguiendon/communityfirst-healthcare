@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version uses the CommunityFirst logo image in the header.
+This version uses the CommunityFirst logo image in the header with a larger mobile logo.
 
 Correct GitHub structure:
 
