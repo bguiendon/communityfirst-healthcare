@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version uses plain CSS instead of Tailwind to avoid styling build issues.
+This version uses the CommunityFirst logo image in the header.
 
 Correct GitHub structure:
 
@@ -8,9 +8,7 @@ Correct GitHub structure:
   - page.js
   - layout.js
   - globals.css
+- public/
+  - communityfirst-logo.png
 - package.json
 - README.md
-
-You no longer need:
-- tailwind.config.js
-- postcss.config.js
