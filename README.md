@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version adjusts the Email Bobby button so its shape and sizing match the LinkedIn button more closely. It keeps Bobby's newer photo, Nicole Walker as co-founder, the mobile navigation/header fixes, cropped logo, and Formspree contact form.
+This version balances the Email Bobby and LinkedIn button sizing on the About page. It keeps Bobby's newer photo, Nicole Walker as co-founder, the mobile navigation/header fixes, cropped logo, and Formspree contact form.
 
 Correct GitHub structure:
 
