@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version keeps the About page with Bobby Guiendon's bio, headshot, and LinkedIn link, and fixes the larger logo sizing plus About page spacing.
+This version fixes logo sizing across client-side navigation between the homepage and About page.
 
 Correct GitHub structure:
 
