@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version changes the logo filename to bust browser cache and fixes logo sizing across homepage/About navigation.
+This version improves the mobile logo/header layout while keeping the cache-busted cropped logo, About page, and Formspree contact form.
 
 Correct GitHub structure:
 
