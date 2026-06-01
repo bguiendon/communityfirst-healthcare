@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version improves the mobile logo/header layout while keeping the cache-busted cropped logo, About page, and Formspree contact form.
+This version improves the mobile header by keeping the logo polished and showing mobile navigation links.
 
 Correct GitHub structure:
 
