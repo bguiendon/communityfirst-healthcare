@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version fixes logo sizing across client-side navigation between the homepage and About page.
+This version changes the logo filename to bust browser cache and fixes logo sizing across homepage/About navigation.
 
 Correct GitHub structure:
 
@@ -12,6 +12,7 @@ Correct GitHub structure:
     - page.js
 - public/
   - communityfirst-logo.png
+  - communityfirst-logo-cropped-v2.png
   - bobby-guiendon.jpg
 - package.json
 - README.md
