@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version connects the contact form to Formspree and uses the cropped CommunityFirst logo.
+This version adds an About page at `/about` with Bobby Guiendon's bio, headshot, and LinkedIn link. It keeps the cropped logo and Formspree contact form.
 
 Correct GitHub structure:
 
@@ -8,8 +8,11 @@ Correct GitHub structure:
   - page.js
   - layout.js
   - globals.css
+  - about/
+    - page.js
 - public/
   - communityfirst-logo.png
+  - bobby-guiendon.jpg
 - package.json
 - README.md
 
