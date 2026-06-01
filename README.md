@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version adds an About page at `/about` with Bobby Guiendon's bio, headshot, and LinkedIn link. It keeps the cropped logo and Formspree contact form.
+This version keeps the About page with Bobby Guiendon's bio, headshot, and LinkedIn link, and fixes the larger logo sizing plus About page spacing.
 
 Correct GitHub structure:
 
