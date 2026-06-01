@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version improves the mobile header by keeping the logo polished and showing mobile navigation links.
+This version updates the About page founder photo and keeps the mobile navigation/header fixes, cropped logo, About page, and Formspree contact form.
 
 Correct GitHub structure:
 
