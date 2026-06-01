@@ -1,6 +1,6 @@
 # CommunityFirst Healthcare Consulting Website
 
-This version adds Nicole Walker as co-founder on the About page, keeps Bobby's updated photo, mobile navigation/header fixes, cropped logo, and Formspree contact form.
+This version updates the About page with Bobby's newer photo and adds an Email Bobby button above the LinkedIn link. It keeps Nicole Walker as co-founder, the mobile navigation/header fixes, cropped logo, and Formspree contact form.
 
 Correct GitHub structure:
 
